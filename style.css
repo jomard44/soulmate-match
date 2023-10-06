@@ -1,0 +1,57 @@
+body{
+    background-image: url(love\ .jpeg);
+    background-size: cover;
+    text-transform: capitalize;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    border: 2px;
+  
+}
+ul{
+    
+    font-size: x-large;
+    color: #ffffff;
+    position: relative;
+    text-align: center;
+    list-style: none;
+    display: inline;
+}
+li{
+    text-align: center;
+    color: #ffffff;
+    display: inline;
+    padding: 25px;
+    margin: 20px;
+}
+.navbar{
+   
+    color: #ffffff;
+}
+main{
+    color: #ffffff;
+    font-size: xx-large;
+    
+   
+    padding-top: 50px;
+}
+
+button{
+    font-size: larger;
+    background-color: darkred;
+    border-radius: 20px;
+    border-color: deeppink;
+   
+   
+
+}
+.link{
+    color: #ffffff;
+}
+footer{
+    text-align: center;
+    font-size:xx-large;
+    color: #ffffff;
+    padding: 50px;
+}
